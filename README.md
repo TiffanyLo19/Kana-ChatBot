@@ -1,7 +1,7 @@
 # Kana-ChatBot
-This is a freenode based chatbot written in java.
+This is a freenode based chatbot written in Java.
 
-It will use the fundamentals of java, REST, and knowledge of parsing JSON objects and arrays 
+It will use the fundamentals of Java, REST, and knowledge of parsing JSON objects and arrays 
 to connect the dictionary and weather API to the chatbot. 
 
 To use the bot, please follow the instructions below:
